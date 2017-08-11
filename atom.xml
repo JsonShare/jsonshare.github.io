@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jsonshare.github.io/"/>
-  <updated>2017-08-11T04:44:34.627Z</updated>
+  <updated>2017-08-11T05:08:25.629Z</updated>
   <id>http://jsonshare.github.io/</id>
   
   <author>
@@ -17,14 +17,15 @@
   
   <entry>
     <title></title>
-    <link href="http://jsonshare.github.io/2017/08/10/hello-world/"/>
-    <id>http://jsonshare.github.io/2017/08/10/hello-world/</id>
-    <published>2017-08-10T11:51:15.027Z</published>
-    <updated>2017-08-11T04:44:34.627Z</updated>
+    <link href="http://jsonshare.github.io/2017/08/11/hello-world.md/"/>
+    <id>http://jsonshare.github.io/2017/08/11/hello-world.md/</id>
+    <published>2017-08-11T05:08:25.550Z</published>
+    <updated>2017-08-11T05:08:25.629Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;����gʽ����ʾ��&quot;&gt;&lt;a href=&quot;#����gʽ����ʾ��&quot; class=&quot;headerlink&quot; title=&quot;����ģʽ����ʾ��&quot;&gt;&lt;/a&gt;����ģʽ����ʾ��&lt;/h1&gt;&lt;p&gt;�����ڲ���԰����д ����ģʽϵ���
+      &lt;h1 id=&quot;设计模式代码示例&quot;&gt;&lt;a href=&quot;#设计模式代码示例&quot; class=&quot;headerlink&quot; title=&quot;设计模式代码示例&quot;&gt;&lt;/a&gt;设计模式代码示例&lt;/h1&gt;&lt;p&gt;本人在博客园正在写 设计模式系列文章，此处为演示源码；&lt;/p&gt;
+&lt;p&gt;博客园地址：&lt;a hr
     
     </summary>
     
