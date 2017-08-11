@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://jsonshare.github.io/2017/08/11/hello-world/</loc>
-    <lastmod>2017-08-11T05:51:46.454Z</lastmod>
+    <lastmod>2017-08-11T06:05:39.383Z</lastmod>
     <data>
         <display>
         <title>设计模式系列</title>
@@ -13,6 +13,9 @@
         
          
            
+             
+              <breadCrumb title="设计模式" url="http://jsonshare.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
         </display>
     </data>
     </url>
