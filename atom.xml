@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jsonshare.github.io/"/>
-  <updated>2017-08-11T05:15:43.938Z</updated>
+  <updated>2017-08-11T05:18:54.203Z</updated>
   <id>http://jsonshare.github.io/</id>
   
   <author>
@@ -16,17 +16,16 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://jsonshare.github.io/2017/08/11/hello-world/"/>
-    <id>http://jsonshare.github.io/2017/08/11/hello-world/</id>
-    <published>2017-08-11T05:08:25.550Z</published>
-    <updated>2017-08-11T05:15:43.938Z</updated>
+    <title>设计模式代码示例</title>
+    <link href="http://jsonshare.github.io/2018/08/11/hello-world/"/>
+    <id>http://jsonshare.github.io/2018/08/11/hello-world/</id>
+    <published>2018-08-11T05:10:33.000Z</published>
+    <updated>2017-08-11T05:18:54.203Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;title: { { 设计模式代码示例 } } &lt;/p&gt;
-&lt;p&gt;本人在博客园正在写 设计模式系列文章，此处为演示源码；&lt;/p&gt;
-&lt;p&gt;博客园地址：&lt;a href=&quot;http://www.cnblogs.com/JsonShare/category/1016618.html&quot;
+      &lt;p&gt;本人在博客园正在写 设计模式系列文章，此处为演示源码；&lt;/p&gt;
+&lt;p&gt;博客园地址：&lt;a href=&quot;http://www.cnblogs.com/JsonShare/category/1016618.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;
     
     </summary>
     
