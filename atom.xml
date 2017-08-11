@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Json的技术博客</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://jsonshare.github.io/"/>
   <updated>2017-08-10T11:51:15.027Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://jsonshare.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Json</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/08/10/hello-world/"/>
-    <id>http://yoursite.com/2017/08/10/hello-world/</id>
+    <link href="http://jsonshare.github.io/2017/08/10/hello-world/"/>
+    <id>http://jsonshare.github.io/2017/08/10/hello-world/</id>
     <published>2017-08-10T11:51:15.027Z</published>
     <updated>2017-08-10T11:51:15.027Z</updated>
     
